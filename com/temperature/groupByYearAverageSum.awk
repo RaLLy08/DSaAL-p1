@@ -10,7 +10,7 @@ NR == 1 {
 }
 NR > 1 {
     # removing spaces
-    gsub(/\s/,"",$4);
+    # gsub(/\s/,"",$4);
 
     groupByKey = $1$4;
     # group years
