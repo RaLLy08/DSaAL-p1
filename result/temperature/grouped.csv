@@ -197,7 +197,6 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 2011,23.6107,0.3425,Laos
 1995,27.1367,0.66025,Eritrea
 2011,23.7267,0.36225,Uganda
-1994,27.6945,0.278333,"Bonaire
 1993,-19.2672,0.5625,Greenland
 2011,25.8427,0.35025,Belize
 2005,25.6995,0.386917,Niue
@@ -210,7 +209,6 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 2007,27.4854,0.551083,Eritrea
 1996,26.4161,0.2645,French Guiana
 1998,27.4248,0.65575,American Samoa
-2006,28.0802,0.369,"Bonaire
 2007,26.2798,0.309167,Cuba
 1997,23.1833,0.274083,New Caledonia
 2007,21.6043,0.32,Zimbabwe
@@ -1005,7 +1003,6 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 2012,2.46342,0.520917,Iceland
 2006,27.3891,0.652167,Federated States Of Micronesia
 2011,25.4742,0.319583,Honduras
-2010,28.3706,0.32225,"Bonaire
 2006,23.3151,0.542917,Libya
 2007,10.0212,0.165417,United Kingdom (Europe)
 1997,26.1402,0.431417,Sao Tome And Principe
@@ -1043,7 +1040,6 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 1999,10.091,0.232917,Romania
 1999,1.84225,0.30225,Iceland
 2001,26.9022,0.241417,Dominica
-1997,27.8697,0.344,"Bonaire
 2010,21.957,0.180333,Oceania
 1991,14.3708,0.411,Afghanistan
 2011,15.7862,0.305417,Turkmenistan
@@ -1060,7 +1056,6 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 2003,8.38508,0.246,Poland
 1998,0.465417,0.267833,Norway
 2005,-5.1705,0.7665,Svalbard And Jan Mayen
-2009,28.1392,0.36525,"Bonaire
 2000,21.8225,0.306,Pakistan
 1998,27.466,0.671667,Kiribati
 2012,28.4845,0.556417,Qatar
@@ -1122,7 +1117,6 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 1992,9.56258,0.268667,Romania
 1992,1.76908,0.351167,Iceland
 2002,11.8583,0.34325,Bosnia And Herzegovina
-1990,27.6518,0.318917,"Bonaire
 2005,5.45608,0.683,French Southern And Antarctic Lands
 2003,23.369,0.436583,Libya
 2002,25.7722,0.294333,Venezuela
@@ -1139,7 +1133,6 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 1996,24.6345,0.187083,Africa
 2008,10.1625,0.322333,Chile
 2003,6.53367,0.605417,Falkland Islands (Islas Malvinas)
-2002,28.0746,0.315833,"Bonaire
 1998,13.245,0.281583,Uzbekistan
 2010,28.8896,0.429667,Qatar
 1998,27.3264,0.217167,Trinidad And Tobago
@@ -1828,7 +1821,6 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 1996,25.2384,0.492833,Equatorial Guinea
 2001,27.431,0.37425,Bahrain
 1991,23.176,0.4455,Uganda
-2013,27.9196,0.587125,"Bonaire
 2006,27.4456,0.4855,Turks And Caicas Islands
 1994,29.0623,1.13692,Djibouti
 2009,27.3872,0.354333,Northern Mariana Islands
@@ -1921,13 +1913,11 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 1995,9.13875,0.204333,Romania
 1995,1.06825,0.289167,Iceland
 2008,8.10967,0.196667,Switzerland
-1993,27.763,0.326417,"Bonaire
 2011,26.2507,0.281417,Dominican Republic
 2010,-0.2155,0.296583,Norway
 1992,13.0847,0.343083,Albania
 2007,27.4021,0.22225,Guam
 2006,27.492,0.412833,Eritrea
-2005,28.0853,0.326,"Bonaire
 2007,3.21225,0.158583,North America
 1999,29.3715,1.10875,Djibouti
 2000,19.7531,0.642167,Rwanda
@@ -2722,7 +2712,6 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 1998,9.17842,0.223833,Romania
 1990,28.5364,0.55825,Mauritania
 1998,1.60775,0.325583,Iceland
-1996,27.7375,0.265417,"Bonaire
 1990,12.3365,0.301833,Guernsey
 2009,12.9493,0.273083,South Korea
 2007,27.6277,0.309917,Ghana
@@ -2735,7 +2724,6 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 2003,26.5673,0.478333,Sao Tome And Principe
 1990,11.2978,0.35125,Macedonia
 2003,14.916,0.456667,Afghanistan
-2008,27.7803,0.289917,"Bonaire
 2005,27.7323,0.247917,Saint Barthélemy
 2001,27.8577,0.616,Palmyra Atoll
 1991,8.82833,0.208833,United Kingdom
@@ -2822,7 +2810,6 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 2003,3.34083,0.397917,Iceland
 2002,20.2842,0.286417,Gaza Strip
 1996,25.8585,0.229667,Puerto Rico
-2001,27.8812,0.364167,"Bonaire
 1995,22.9362,0.524417,Angola
 2010,11.1024,0.386833,Georgia
 1996,25.2307,0.67,Cape Verde
@@ -3377,8 +3364,8 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 1993,24.2816,0.32725,Kenya
 1996,12.4059,0.25125,Turkey
 1990,26.9323,0.22975,Philippines
-2002,7.70608,0.208417,Lithuania
 2011,26.5913,0.37,French Guiana
+2002,7.70608,0.208417,Lithuania
 2008,23.4962,0.41475,Uganda
 2012,23.2134,0.474333,New Caledonia
 2010,16.114,0.411333,Nepal
@@ -3516,7 +3503,6 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 1993,5.90675,0.358833,Åland
 2000,27.0708,0.344917,Bahrain
 1993,24.6798,0.232667,Congo
-2012,27.9964,0.438583,"Bonaire
 2000,27.0965,0.299917,Singapore
 2000,20.0452,0.260167,Jordan
 1999,24.7368,0.355,Gabon
@@ -3550,7 +3536,6 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 1993,26.9305,0.353417,British Virgin Islands
 1992,24.5498,0.281833,Congo
 2001,26.6548,0.530333,Kuwait
-1999,27.5349,0.353417,"Bonaire
 1991,25.348,0.260583,Fiji
 1994,19.7124,0.728833,Rwanda
 2010,12.9473,0.358083,Bhutan
@@ -3620,7 +3605,6 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 1990,24.7665,0.261333,Congo
 1999,-5.72775,0.769083,Svalbard And Jan Mayen
 2008,26.0548,0.288583,Cuba
-1992,27.706,0.323833,"Bonaire
 2008,25.6483,0.316333,Venezuela
 2000,1.79692,0.31125,Norway
 2007,11.0144,0.18925,Netherlands (Europe)
@@ -3632,7 +3616,6 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 2006,2.6825,0.42225,Iceland
 2005,27.2947,0.7365,Yemen
 1993,2.25883,1.32717,South Georgia And The South Sandwich Isla
-2004,27.6913,0.311167,"Bonaire
 1991,14.4128,0.254917,Greece
 1996,10.252,0.28525,Bosnia And Herzegovina
 2013,10.6866,0.577,Georgia
@@ -3808,8 +3791,8 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 1991,26.9934,0.294333,Solomon Islands
 1994,26.3583,0.463917,Sierra Leone
 2007,27.7165,0.218583,Saint Vincent And The Grenadines
-2003,6.83033,0.251333,Lithuania
 1999,18.9815,0.325333,Lebanon
+2003,6.83033,0.251333,Lithuania
 2004,10.9983,0.343,Bosnia And Herzegovina
 1992,26.9015,0.232333,Philippines
 2008,4.57758,0.33175,Kyrgyzstan
@@ -4352,7 +4335,6 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 1996,27.6081,0.33925,Qatar
 2009,25.1467,0.165,India
 2004,8.444,0.245083,North Korea
-1995,27.9905,0.291917,"Bonaire
 2012,1.90217,0.993833,South Georgia And The South Sandwich Isla
 2006,10.9158,0.222583,Netherlands (Europe)
 2004,22.3461,0.335,Botswana
@@ -4409,7 +4391,6 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 2009,10.4707,0.261,Romania
 2009,2.464,0.34575,Iceland
 1998,26.4071,0.289583,Cuba
-2007,28.1358,0.340833,"Bonaire
 1999,11.0862,0.188417,Netherlands
 1999,7.10892,0.21175,Latvia
 2002,10.5242,0.250333,Isle Of Man
@@ -4430,7 +4411,6 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 1999,20.8922,0.293333,Israel
 2010,25.2457,0.377417,Honduras
 1994,26.6245,0.308333,Dominica
-2000,27.4122,0.32725,"Bonaire
 2007,26.8231,0.363833,Nicaragua
 1995,10.2762,0.224,Serbia
 1992,20.0332,0.30225,Tunisia
@@ -4964,8 +4944,8 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 1997,1.04375,0.278833,Norway
 2005,10.3081,0.169583,Luxembourg
 2004,6.90608,0.248583,Austria
-2007,6.27925,0.271667,Liechtenstein
 2003,23.0666,0.837667,Angola
+2007,6.27925,0.271667,Liechtenstein
 1991,3.23142,1.0105,Heard Island And Mcdonald Islands
 2005,9.89267,0.13675,United States
 1999,5.425,0.521,Tajikistan
@@ -5148,7 +5128,6 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 2005,25.1562,0.179583,Africa
 2012,20.46,0.357917,Peru
 1999,28.7926,0.40225,Mali
-2011,27.8515,0.3885,"Bonaire
 2009,23.3811,0.499667,Western Sahara
 1997,5.47083,0.7495,French Southern And Antarctic Lands
 2004,27.3287,0.279,Singapore
@@ -5184,7 +5163,6 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 1999,27.5141,0.590833,Eritrea
 2001,7.12508,0.430083,Faroe Islands
 2003,23.9938,0.36275,Guatemala
-1998,28.2815,0.309583,"Bonaire
 1996,11.0169,0.184167,Guernsey
 2000,11.9984,0.311167,Bhutan
 2009,27.2331,0.280833,Suriname
@@ -5246,7 +5224,6 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 1993,26.8164,0.315833,American Samoa
 1993,8.86292,0.24025,Romania
 1993,1.70325,0.352,Iceland
-1991,27.5242,0.280667,"Bonaire
 2012,27.1212,0.666417,Cayman Islands
 2008,19.7305,0.511083,Rwanda
 2009,26.7817,0.303667,Nicaragua
@@ -5258,7 +5235,6 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country
 2005,2.20033,0.397,Iceland
 2002,12.2451,0.244917,Guernsey
 2006,23.3021,0.27325,Macau
-2003,28.1117,0.331167,"Bonaire
 1991,4.933,0.277,Liechtenstein
 1991,19.7917,0.31,Jordan
 2013,28.1751,0.405375,Sri Lanka
