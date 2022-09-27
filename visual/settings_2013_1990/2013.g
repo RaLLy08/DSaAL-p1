@@ -8,9 +8,9 @@ set boxwidth 0.7
 set style fill solid
 set xlabel "year-2013"
 set title "Hydro consumption"
-plot filename2 using 4:xticlabels(3) w boxes linecolor 2 t "hydro"
+plot filename1 using 4:xticlabels(3) w boxes linecolor 2 t "hydro"
 set title "Solar consumption"
-plot filename3 using 4:xticlabels(3) w boxes linecolor 3 t "solar"
+plot filename2 using 4:xticlabels(3) w boxes linecolor 3 t "solar"
 set title "Wind consumption"
-plot filename1 using 4:xticlabels(3) w boxes linecolor 1 t "wind"
+plot filename3 using 4:xticlabels(3) w boxes linecolor 1 t "wind"
 unset multiplot
