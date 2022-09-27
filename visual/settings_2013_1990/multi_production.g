@@ -6,11 +6,11 @@ set datafile separator ","
 set xtics rotate
 set boxwidth 0.5
 set style fill solid
-set xlabel "year-2013"
+set xlabel "year-1990"
 plot filename1 using 4:xticlabels(3) w boxes linecolor 1 t "coal"
 plot filename2 using 4:xticlabels(3) w boxes linecolor 2 t "oil"
 plot filename3 using 4:xticlabels(3) w boxes linecolor 3 t "gas"
-set xlabel "year-1990"
+set xlabel "year-2013"
 plot filename4 using 4:xticlabels(3) w boxes linecolor 4 t "coal"
 plot filename5 using 4:xticlabels(3) w boxes linecolor 5 t "oil"
 plot filename6 using 4:xticlabels(3) w boxes linecolor 6 t "gas"
