@@ -1,1 +1,0 @@
-mlr --csv filter $year == $1 && $country == $2 then stats1 -a mean,p25,p50,p75 -f $3 temperature_energy_joined.csv 
